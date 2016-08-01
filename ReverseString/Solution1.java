@@ -1,7 +1,7 @@
+```Java
 /**Swap elements in a char array.
 *3ms solution(sometimens 2ms)
 */
-```Java
 public class Solution
 {
     public String reverseString(String s)
