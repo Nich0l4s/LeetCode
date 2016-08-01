@@ -1,4 +1,3 @@
-```Java
 /**Swap elements in a char array.
 *3ms solution(sometimens 2ms)
 */
@@ -18,4 +17,3 @@ public class Solution
         return new String(array);
     }
 }
-```
