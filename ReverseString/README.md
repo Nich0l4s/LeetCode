@@ -5,4 +5,4 @@ Write a function that takes a string as input and returns the string reversed.
     
 Given s = "hello", return "olleh".
 
-[link](https://leetcode.com/problems/reverse-string/ "With a Title")
+[**link**](https://leetcode.com/problems/reverse-string/ "URL")
