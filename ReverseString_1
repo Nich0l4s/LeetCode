@@ -1,3 +1,8 @@
+/**Swap elements in a char array.
+*3ms solution(sometimens 2ms)
+*https://leetcode.com/problems/reverse-string/
+*Difficulty: Easy
+*/
 public class Solution
 {
     public String reverseString(String s)
