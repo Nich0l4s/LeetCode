@@ -1,13 +1,12 @@
 #ReverseString\#344
+
+*Difficulty:*Easy.
+***
 Write a function that takes a string as input and returns the string reversed.
-
-*Difficulty:*
-
-Easy.
 
 *Example:*
     
-Given s = "hello", return "olleh".
+&nbsp&nbspGiven s = "hello", return "olleh".
 
 *link:*
 
