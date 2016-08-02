@@ -10,4 +10,4 @@ Write a function that takes a string as input and returns the string reversed.
 
 *link:*
 
-<https://leetcode.com/problems/reverse-string/>
+&ensp;<https://leetcode.com/problems/reverse-string/>
