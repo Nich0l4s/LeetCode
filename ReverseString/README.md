@@ -4,10 +4,10 @@
 ***
 Write a function that takes a string as input and returns the string reversed.
 
-*Example:*
+_Example:_
     
 &nbsp;&nbsp;Given s = "hello", return "olleh".
 
-*link:*
+_link:_
 
 &nbsp;&nbsp;<https://leetcode.com/problems/reverse-string/>
