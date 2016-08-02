@@ -1,6 +1,6 @@
 #ReverseString\#344
 
-*Difficulty:*Easy.
+**Difficulty:**Easy.
 ***
 Write a function that takes a string as input and returns the string reversed.
 
