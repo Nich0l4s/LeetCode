@@ -1,4 +1,4 @@
-#Move-Zeros\#283
+#MoveZeros\#283
 
 **Difficulty:**Easy
 ***
