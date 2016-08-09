@@ -6,7 +6,7 @@ Write a function that takes a string as input and returns the string reversed.
 
 **Example:**
     
-&nbsp;&nbsp;Given s = "hello", return "olleh".
+Given s = "hello", return "olleh".
 ***
 **link:**
 
