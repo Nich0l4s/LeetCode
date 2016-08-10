@@ -2,8 +2,11 @@
 
 If list input sequence from 0~30, we get output sequence:
 >0~9:0,1,2,3,4,5,6,7,8,9
+
 >10~18:1,2,3,4,5,6,7,8,9
+
 >19~27:1,2,3,4,5,6,7,8,9
+
 >28~30:1,2,3
 
 The result periodically occur.This problem is widely known as digit root problem.
