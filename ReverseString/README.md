@@ -2,12 +2,14 @@
 
 **Difficulty:**Easy.
 ***
+**Description:**
+
 Write a function that takes a string as input and returns the string reversed.
 
 **Example:**
     
-&nbsp;&nbsp;Given s = "hello", return "olleh".
+Given s = "hello", return "olleh".
+***
+**Link:**
 
-**link:**
-
-&nbsp;&nbsp;<https://leetcode.com/problems/reverse-string/>
+<https://leetcode.com/problems/reverse-string/>
