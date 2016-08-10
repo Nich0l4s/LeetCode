@@ -1,4 +1,4 @@
-/**According to the first formula in Explanation.md
+/**According to the first formula in explanation.md
 *2ms solution
 */
 public class Solution {
