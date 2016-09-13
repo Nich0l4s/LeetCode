@@ -15,7 +15,9 @@ For base b(decimal case b = 10), the digit root of an integer is:
 * dr(n) = 0, if n == 0;
 * dr(n) = n % (b - 1), if n % (b - 1) != 0;
 * dr(n) = b - 1, if n % (b - 1) = 0;
+
 **OR:**
+
 * dr(n) = 1 + (n - 1) % (b - 1);
 
 ***
